@@ -1,4 +1,4 @@
-# python-encrypted-chatroom
+# ENCRYPTED CHATROOM
 
 Server client encrypted chatroom:
 * Server-client authentication: ECDSA
