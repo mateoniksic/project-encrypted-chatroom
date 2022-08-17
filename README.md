@@ -5,7 +5,10 @@ Server client encrypted chatroom:
 * Key exchange: X25519
 * Message authentication: SHA256
 
-To successfully start the chatroom, run the scripts in the following order:
+## Instructions to start the application
 1. python3 config.py
 2. python3 server.py
 3. python3 client.py
+
+## Application preview
+![Chatroom](showcase/chatroom.PNG)
